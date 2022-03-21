@@ -1,0 +1,9 @@
+use 3
+hand
+play 1
+use 3
+board
+attack 2 1
+attack 2
+board
+use 1 1 3

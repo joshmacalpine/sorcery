@@ -1,0 +1,6 @@
+Gandalf
+Frodo
+play 3
+play 3
+end
+board

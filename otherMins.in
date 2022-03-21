@@ -1,0 +1,10 @@
+hand
+play 2
+board
+end
+board
+use 3 2 1
+play 1
+end
+board
+quit

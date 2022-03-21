@@ -1,0 +1,50 @@
+Gandalf
+Frodo
+hand
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+hand
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+hand
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+hand
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+hand
+discard 1
+discard 1
+quit

@@ -1,0 +1,11 @@
+hand
+play 3
+play 2
+play 2
+play 2
+end
+hand
+board
+play 4 2 r
+board
+quit

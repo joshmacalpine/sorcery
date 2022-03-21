@@ -1,0 +1,11 @@
+Yugi
+Kaiba
+play 3
+end
+play 1
+play 1
+play 1
+play 1
+play 1
+end
+board

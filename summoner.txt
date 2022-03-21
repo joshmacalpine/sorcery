@@ -1,0 +1,5 @@
+Gandalf
+Frodo
+play 2
+play 1
+board
